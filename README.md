@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on data analytics projects
+ 🔭 I’m currently working on data science projects and ML projects
  
- 🌱 I’m currently learning *SNOWFLAKE, SPARK, AWS*
+ 🌱 I’m currently learning *SNOWFLAKE, SPARK, AWS,TENSORFLOW*
 
-💬 Ask me about *POWER BI, PYTHON, TABLUE... or anything*
+💬 Ask me about *POWER BI, PYTHON, TABLUE, ML... or anything*
 
-⚡ Fun fact *There are approximately 400,000 bytes of data for every grain of sand on earth.*
+⚡ Fun fact *There are approximately 400,000 bytes of data for every grain of sand on Earth.*
 
  </div>
  
